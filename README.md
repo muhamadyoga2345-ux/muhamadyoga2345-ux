@@ -1,37 +1,28 @@
-## 💫 About Me
 
-Hi there, I'm Yoga 👋
+## 💫 About Me:
+# Hi there, I'm Yoga 👋<br><br>I'm **Muhamad Yoga Eka Saputra**, a cybersecurity practitioner and aspiring AI<br>engineer who's genuinely fascinated by how systems work — and how they break.<br>My curiosity lives at the intersection of two fast-moving worlds: **offensive<br>security** and **AI/LLM security**. I love pulling things apart to understand<br>their weaknesses, then putting them back together stronger, because to me,<br>security was never about fear — it's about building things people can actually<br>trust.<br><br>Right now, I'm deepening my craft in **Web Application Penetration Testing**<br>while exploring the newer frontier of AI security: prompt injection, jailbreaking,<br>RAG security, AI supply chain attacks, and data poisoning. Alongside that, I'm<br>learning to **build and secure LLM-powered applications**, convinced that the<br>people who understand both how to attack and how to defend AI will be the ones<br>who shape its future. I learn by doing — through hands-on labs, CTF challenges,<br>and real-world security scenarios, one lab at a time.<br><br>My toolkit spans offensive security (`Nmap`, `Burp Suite`, `Metasploit`, `Hydra`,<br>`Wireshark`, `OWASP Top 10`), AI and development (`Python`, `PyTorch`, `Fickling`,<br>`ModelScan`, and other LLM security tools), and the fundamentals I build everything<br>on (`Linux`, `Bash`, `SQL`, `Git`, `Splunk`).<br><br>I'm always learning, always practicing, and always open to a good challenge. If<br>you're working on securing software or AI systems — or simply want to talk shop —<br>I'd love to connect.<br><br>💼 **LinkedIn:** [Muhamad Yoga Eka Saputra](https://www.linkedin.com/in/muhamad-yoga-eka-saputra-5a4392225)<br><br>Open to collaboration, freelance work, and conversations around cybersecurity &<br>AI security. Let's build things worth trusting. 🤝<br><br>---<br><br>![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhamadyoga2345-ux&show_icons=true&theme=tokyonight)
 
-I'm **Muhamad Yoga Eka Saputra**, a cybersecurity practitioner and aspiring AI engineer who's genuinely fascinated by how systems work — and how they break. My curiosity lives at the intersection of two fast-moving worlds: **offensive security** and **AI/LLM security**. I love pulling things apart to understand their weaknesses, then putting them back together stronger — because to me, security was never about fear. It's about building things people can actually trust.
 
-Right now, I'm deepening my craft in **Web Application Penetration Testing** while exploring the newer frontier of AI security: prompt injection, jailbreaking, RAG security, AI supply chain attacks, and data poisoning. Alongside that, I'm learning to **build and secure LLM-powered applications**. I learn by doing — through hands-on labs, CTF challenges, and real-world security scenarios.
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Muhamad Yoga Eka Saputra) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muhamad_yogaaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/muhamad-yoga-eka-saputra-5a4392225) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Muhamad Yoga Eka Saputra) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/muhamad yoga Eka Saputra) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@yoyow_suroyow) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Muhamad Yoga Eka Saputra) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@muhamad yoga Eka Saputra) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhamadyoga2345@gmail.com) 
 
-I'm always learning, always practicing, and open to a good challenge. If you're working on securing software or AI systems — or simply want to talk shop — I'd love to connect.
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=muhamadyoga2345-ux&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=muhamadyoga2345-ux&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=muhamadyoga2345-ux&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=muhamadyoga2345-ux&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-## 🧰 Tech Stack
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
-
----
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhamad-yoga-eka-saputra-5a4392225)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:muhamadyoga2345@gmail.com)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=muhamadyoga2345-ux&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=muhamadyoga2345-ux&icon=0&color=1)](https://visitcount.itsvg.in)
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=muhamadyoga2345-ux&show_icons=true&hide_border=true&theme=dark)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
